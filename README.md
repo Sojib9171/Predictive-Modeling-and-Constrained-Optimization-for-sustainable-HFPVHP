@@ -1,4 +1,4 @@
-# Outflow forecasting with LSTM with Constraint Validation for sustainable Hybrid Floating Photovoltaic-Hydropower (HFPVHP) systems
+# Predictive Modeling and Constrained Optimization for sustainable HFPVHP
 
 
 ## Overview
